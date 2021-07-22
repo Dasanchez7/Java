@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Registro {
 
-    public int materias2[][] = new int[100][100];
+	public int materias2[][] = new int[100][100];
 	public int array_promedio2[] = new int[100];
 
     public int calculo_edad(int dia_actual, int mes_actual, int año_actual, int dia_cumple, int mes_cumple, int año_nacimiento){
