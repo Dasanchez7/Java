@@ -1,0 +1,79 @@
+Palabra - trabajo
+
+Traduccion - work
+
+Palabra - nacion
+
+Traduccion - nation
+
+Palabra - luna
+
+Traduccion - moon
+
+Palabra - red
+
+Traduccion - network
+
+Palabra - monstruo
+
+Traduccion - monster
+
+Palabra - contacto
+
+Traduccion - contact
+
+Palabra - barato
+
+Traduccion - cheap
+
+Palabra - negocio
+
+Traduccion - business
+
+Palabra - adentro
+
+Traduccion - inside
+
+Palabra - dormir
+
+Traduccion - sleep
+
+Palabra - piscina
+
+Traduccion - pool
+
+Palabra -  deportes
+
+Traduccion - sports
+
+Palabra - rueda
+
+Traduccion - wheel 
+
+Palabra - nadar
+
+Traduccion - swim
+
+Palabra - voltaje
+
+Traduccion - voltage 
+
+Palabra - vacio
+
+Traduccion - void
+
+Palabra - escribir
+
+Traduccion - write 
+
+Palabra - codigo
+
+Traduccion - code 
+
+Palabra - hablar
+
+Traduccion - talk
+
+Palabra - enviar
+
+Traduccion - send
